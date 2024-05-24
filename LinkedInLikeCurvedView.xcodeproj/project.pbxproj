@@ -13,6 +13,8 @@
 		76403D95260BC20F00640C25 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76403D93260BC20F00640C25 /* Main.storyboard */; };
 		76403D97260BC21200640C25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76403D96260BC21200640C25 /* Assets.xcassets */; };
 		76403D9A260BC21200640C25 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76403D98260BC21200640C25 /* LaunchScreen.storyboard */; };
+		76403DA3260BC22200640C25 /* CurvedRoundedEdgedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76403DA2260BC22200640C25 /* CurvedRoundedEdgedView.swift */; };
+		76454581260BD34B005C3953 /* AnotherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76454580260BD34B005C3953 /* AnotherView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		76403D96260BC21200640C25 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		76403D99260BC21200640C25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		76403D9B260BC21200640C25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		76403DA2260BC22200640C25 /* CurvedRoundedEdgedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurvedRoundedEdgedView.swift; sourceTree = "<group>"; };
+		76454580260BD34B005C3953 /* AnotherView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnotherView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				76403D8F260BC20F00640C25 /* SceneDelegate.swift */,
 				76403D91260BC20F00640C25 /* ViewController.swift */,
 				76403D93260BC20F00640C25 /* Main.storyboard */,
+				76403DA2260BC22200640C25 /* CurvedRoundedEdgedView.swift */,
+				76454580260BD34B005C3953 /* AnotherView.swift */,
 				76403D96260BC21200640C25 /* Assets.xcassets */,
 				76403D98260BC21200640C25 /* LaunchScreen.storyboard */,
 				76403D9B260BC21200640C25 /* Info.plist */,
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				76403D92260BC20F00640C25 /* ViewController.swift in Sources */,
+				76403DA3260BC22200640C25 /* CurvedRoundedEdgedView.swift in Sources */,
+				76454581260BD34B005C3953 /* AnotherView.swift in Sources */,
 				76403D8E260BC20F00640C25 /* AppDelegate.swift in Sources */,
 				76403D90260BC20F00640C25 /* SceneDelegate.swift in Sources */,
 			);
